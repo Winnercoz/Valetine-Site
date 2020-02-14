@@ -1,0 +1,17 @@
+p{
+    text-align: center;
+    font-weight: monospace;
+}
+button{
+    margin: 0px 100px;
+}
+#logo{
+    font-family: 'Odibee Sans', cursive;
+}
+li a{
+    color: aliceblue;
+}
+div{
+    margin: 10px 0px;
+    padding: 20px;
+}
